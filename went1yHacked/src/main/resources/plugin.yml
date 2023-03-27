@@ -1,0 +1,3 @@
+name: went1yHacked
+version: '${project.version}'
+main: org.went1yhacked.Went1yHacked
